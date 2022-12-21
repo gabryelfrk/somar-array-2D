@@ -1,0 +1,13 @@
+package teste;
+
+import java.io.*;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		int um = 1;
+		String umN = "1";
+		System.out.print("");
+	}
+
+}

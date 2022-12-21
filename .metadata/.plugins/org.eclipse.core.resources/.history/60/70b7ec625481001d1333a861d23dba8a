@@ -1,0 +1,20 @@
+package teste;
+
+import java.io.*;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		String a = new String("Teste");
+		String b = new String("Teste");
+		
+		if (a.equals(b)) {
+			System.out.print("igual");
+		}
+		else {
+			System.out.print("diferente");
+		}
+		
+	}
+
+}
